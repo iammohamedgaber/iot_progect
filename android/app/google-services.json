@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "658889363766",
+    "firebase_url": "https://rfid-attend-default-rtdb.firebaseio.com",
+    "project_id": "rfid-attend",
+    "storage_bucket": "rfid-attend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658889363766:android:3c079cd3e9431afb6aa397",
+        "android_client_info": {
+          "package_name": "com.example.iotproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5MppH7_0iXsrDqe21jPbhDpgAz_r_b-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
